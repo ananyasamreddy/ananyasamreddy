@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Samreddy Ananya 
+# Hi, I'm Samreddy Ananya 
 
 ## About Me
 
