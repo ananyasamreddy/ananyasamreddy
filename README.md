@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Samreddy Ananya 
 
-<!--
-**ananyasamreddy/ananyasamreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech Student at CVR College of Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Full Stack Development, and Problem Solving
+
+🌱 Currently learning:
+
+* Java
+* SQL
+* Data Structures & Algorithms
+* Full Stack Development
+
+## Technical Skills
+
+### Programming Languages
+
+* Java
+* JavaScript
+* SQL
+
+### Web Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* Node.js
+* Express.js
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* XAMPP
+
+## Connect With Me
+
+📧 Email: ananyasamreddy@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+
+
+
