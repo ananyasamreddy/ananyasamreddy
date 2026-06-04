@@ -45,7 +45,7 @@
 
 📧 Email: ananyasamreddy@gmail.com
 
-💼 LinkedIn: linkedin.com/in/samreddy-ananya-3a860433b
+💼 LinkedIn: https://linkedin.com/in/samreddy-ananya-3a860433b
 
 
 
